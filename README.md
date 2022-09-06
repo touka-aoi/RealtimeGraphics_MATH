@@ -1,9 +1,7 @@
 # リアルタイムグラフィックの数学をやるやつ
 
-1. Helloworld
+動作環境 : Visual Studio Code gl-cannvas
 
+勉強ノート
 
-
-
-2. 補間
-
+https://touka-aoi.notion.site/cc4804b83dda421598d0b596b7fc3fe8
